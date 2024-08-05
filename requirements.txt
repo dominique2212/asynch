@@ -1,0 +1,6 @@
+Flask
+confluent-kafka
+aiohttp
+confluent-kafka
+pandas
+aiohttp-swagger
